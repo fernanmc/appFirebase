@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "G:\\CursoNativeScript\\appFirebase\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-hdpi\\background.png",
+        "source": "G:\\CursoNativeScript\\appFirebase\\platforms\\android\\src\\main\\res\\drawable-hdpi\\background.png"
+    },
+    {
+        "merged": "G:\\CursoNativeScript\\appFirebase\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-hdpi\\logo.png",
+        "source": "G:\\CursoNativeScript\\appFirebase\\platforms\\android\\src\\main\\res\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "G:\\CursoNativeScript\\appFirebase\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-hdpi\\icon.png",
+        "source": "G:\\CursoNativeScript\\appFirebase\\platforms\\android\\src\\main\\res\\drawable-hdpi\\icon.png"
+    }
+]

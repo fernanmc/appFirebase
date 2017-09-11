@@ -1,0 +1,45 @@
+{
+  "project_info": {
+    "project_number": "403836001838",
+    "firebase_url": "https://nativescriptchat-392c6.firebaseio.com",
+    "project_id": "nativescriptchat-392c6",
+    "storage_bucket": "nativescriptchat-392c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403836001838:android:6c67270ec42a9a43",
+        "android_client_info": {
+          "package_name": "org.nativescript.appFirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403836001838-ofai0egka198udn1lr4vf4eviniosv7a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASVQAulSOLxZ8prqEAggDb5n9RDllft1I"
+        },
+        {
+          "current_key": "AIzaSyAL7699k9QoEywmx6u64pr63kscZUX_DRM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

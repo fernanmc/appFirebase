@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "G:\\CursoNativeScript\\appFirebase\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-watch-v20\\common_google_signin_btn_text_light_normal.xml",
+        "source": "G:\\CursoNativeScript\\appFirebase\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-auth\\11.0.4\\res\\drawable-watch-v20\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "G:\\CursoNativeScript\\appFirebase\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-watch-v20\\common_google_signin_btn_text_disabled.xml",
+        "source": "G:\\CursoNativeScript\\appFirebase\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-auth\\11.0.4\\res\\drawable-watch-v20\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "G:\\CursoNativeScript\\appFirebase\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-watch-v20\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "G:\\CursoNativeScript\\appFirebase\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-auth\\11.0.4\\res\\drawable-watch-v20\\common_google_signin_btn_text_dark_normal.xml"
+    }
+]
